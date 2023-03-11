@@ -1,0 +1,7 @@
+set xlabel "x"
+set ylabel "f(x)"
+m="./function.txt"
+
+set grid
+set title 'Plot f(x) vs x'
+plot m  using 1:2 with linespoints

@@ -1,0 +1,820 @@
+         0.0000054877       -0.0000079158        0.0000204228  1
+        -0.2198521992       -0.3701882107       -0.9900768766  1
+         0.9543260383        0.5048075311       -0.0068379090  1
+        -0.7700215147        0.6931075483        0.3038544524  1
+         0.0354007739       -0.8275054267        0.6925729475  1
+        -0.0000071198        0.0000088621       -0.0000168600  1
+         0.2197543864        0.3705315810        0.9899722575  1
+         0.7697592927       -0.6933599830       -0.3039930201  1
+        -0.9541490946       -0.5051333809        0.0068184828  1
+        -0.0352133765        0.8277379990       -0.6923088207  1
+           1           1           1
+           2           1           1
+           3           1           1
+           4           1           1
+           5           1           1
+         0.0000054877       -0.0000079158        0.0000204228  1
+        -0.2198521992       -0.3701882107       -0.9900768766  1
+         0.9543260383        0.5048075311       -0.0068379090  1
+        -0.7700215147        0.6931075483        0.3038544524  1
+         0.0354007739       -0.8275054267        0.6925729475  1
+        -0.0000071198        0.0000088621       -0.0000168600  1
+         0.2197543864        0.3705315810        0.9899722575  1
+         0.7697592927       -0.6933599830       -0.3039930201  1
+        -0.9541490946       -0.5051333809        0.0068184828  1
+        -0.0352133765        0.8277379990       -0.6923088207  1
+           1           1           1
+           2           1           1
+           3           1           1
+           4           1           1
+           5           1           1
+         0.0000054877       -0.0000079158        0.0000204228  1
+        -0.2198521992       -0.3701882107       -0.9900768766  1
+         0.9543260383        0.5048075311       -0.0068379090  1
+        -0.7700215147        0.6931075483        0.3038544524  1
+         0.0354007739       -0.8275054267        0.6925729475  1
+        -0.0000071198        0.0000088621       -0.0000168600  1
+         0.2197543864        0.3705315810        0.9899722575  1
+         0.7697592927       -0.6933599830       -0.3039930201  1
+        -0.9541490946       -0.5051333809        0.0068184828  1
+        -0.0352133765        0.8277379990       -0.6923088207  1
+         0.0000054877       -0.0000079158        0.0000204228  1
+        -0.2198521992       -0.3701882107       -0.9900768766  1
+         0.9543260383        0.5048075311       -0.0068379090  1
+        -0.7700215147        0.6931075483        0.3038544524  1
+         0.0354007739       -0.8275054267        0.6925729475  1
+        -0.0000071198        0.0000088621       -0.0000168600  1
+         0.2197543864        0.3705315810        0.9899722575  1
+         0.7697592927       -0.6933599830       -0.3039930201  1
+        -0.9541490946       -0.5051333809        0.0068184828  1
+           1           1           1
+           2           1           1
+           3           1           1
+           4           1           1
+        -0.0352133765        0.8277379990       -0.6923088207  1
+           5           1           1
+           1           1           1
+           2           1           1
+           3           1           1
+           4           1           1
+           5           1           1
+NRLMOL version 12/23/2013 
+ 
+Copyright by Mark R. Pederson, Koblar A. Jackson, Dirk V. Porezag,
+and David C. Patton, 1988-2001
+ 
+Permission to use, copy, and distribute this software can only be
+granted by the authors. Please contact nrlmol@dave.nrl.navy.mil
+for questions, updates, modifications, and bug reports.
+ 
+If you use this program please cite the following articles:
+ 
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 41, 7453 (1990)
+* K. A. Jackson and M. R. Pederson, Phys. Rev. B. 42, 3276 (1990)
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 43, 7312 (1991)
+* A. A. Quong, M. R. Pederson, and J. L. Feldman,
+  Solid State Commun. 87, 535 (1993)
+* D. V. Porezag and M. R. Pederson, Phys. Rev. B. 54, 7830 (1996)
+* D. V. Porezag, PhD thesis: http://archiv.tu-chemnitz.de/pub/1997/0025
+* A. Briley, M. R. Pederson, K. A. Jackson, D. C. Patton, and
+  D. V. Porezag,Phys. Rev. B. 58, 1786 (1998)
+ 
+SERIAL VERSION
+commit 272abec88b1fe2cf583e70e717a289c773e32b05
+Author: Yoh Yamamoto <yohyamamoto@gmail.com>
+Date:   Tue Jan 28 12:10:50 2020 -0700
+GLOBAL AWAKENING ON:
+NRLMOL version 12/23/2013 
+ 
+Copyright by Mark R. Pederson, Koblar A. Jackson, Dirk V. Porezag,
+and David C. Patton, 1988-2001
+ 
+Permission to use, copy, and distribute this software can only be
+granted by the authors. Please contact nrlmol@dave.nrl.navy.mil
+for questions, updates, modifications, and bug reports.
+ 
+If you use this program please cite the following articles:
+ 
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 41, 7453 (1990)
+* K. A. Jackson and M. R. Pederson, Phys. Rev. B. 42, 3276 (1990)
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 43, 7312 (1991)
+* A. A. Quong, M. R. Pederson, and J. L. Feldman,
+  Solid State Commun. 87, 535 (1993)
+* D. V. Porezag and M. R. Pederson, Phys. Rev. B. 54, 7830 (1996)
+* D. V. Porezag, PhD thesis: http://archiv.tu-chemnitz.de/pub/1997/0025
+* A. Briley, M. R. Pederson, K. A. Jackson, D. C. Patton, and
+  D. V. Porezag,Phys. Rev. B. 58, 1786 (1998)
+ 
+SERIAL VERSION
+commit 272abec88b1fe2cf583e70e717a289c773e32b05
+Author: Yoh Yamamoto <yohyamamoto@gmail.com>
+Date:   Tue Jan 28 12:10:50 2020 -0700
+GLOBAL AWAKENING ON:
+NRLMOL version 12/23/2013 
+ 
+Copyright by Mark R. Pederson, Koblar A. Jackson, Dirk V. Porezag,
+and David C. Patton, 1988-2001
+ 
+Permission to use, copy, and distribute this software can only be
+granted by the authors. Please contact nrlmol@dave.nrl.navy.mil
+for questions, updates, modifications, and bug reports.
+ 
+If you use this program please cite the following articles:
+ 
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 41, 7453 (1990)
+* K. A. Jackson and M. R. Pederson, Phys. Rev. B. 42, 3276 (1990)
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 43, 7312 (1991)
+* A. A. Quong, M. R. Pederson, and J. L. Feldman,
+  Solid State Commun. 87, 535 (1993)
+* D. V. Porezag and M. R. Pederson, Phys. Rev. B. 54, 7830 (1996)
+* D. V. Porezag, PhD thesis: http://archiv.tu-chemnitz.de/pub/1997/0025
+* A. Briley, M. R. Pederson, K. A. Jackson, D. C. Patton, and
+  D. V. Porezag,Phys. Rev. B. 58, 1786 (1998)
+ 
+SERIAL VERSION
+commit 272abec88b1fe2cf583e70e717a289c773e32b05
+Author: Yoh Yamamoto <yohyamamoto@gmail.com>
+Date:   Tue Jan 28 12:10:50 2020 -0700
+GLOBAL AWAKENING ON:
+Mon Jul 13 09:32:54 MDT 2020
+CPU NODE:
+Mon Jul 13 09:32:54 MDT 2020
+CPU NODE:
+miles-desktop
+NRLMOL version 12/23/2013 
+ 
+Copyright by Mark R. Pederson, Koblar A. Jackson, Dirk V. Porezag,
+and David C. Patton, 1988-2001
+ 
+Permission to use, copy, and distribute this software can only be
+granted by the authors. Please contact nrlmol@dave.nrl.navy.mil
+for questions, updates, modifications, and bug reports.
+ 
+If you use this program please cite the following articles:
+ 
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 41, 7453 (1990)
+* K. A. Jackson and M. R. Pederson, Phys. Rev. B. 42, 3276 (1990)
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 43, 7312 (1991)
+* A. A. Quong, M. R. Pederson, and J. L. Feldman,
+  Solid State Commun. 87, 535 (1993)
+* D. V. Porezag and M. R. Pederson, Phys. Rev. B. 54, 7830 (1996)
+* D. V. Porezag, PhD thesis: http://archiv.tu-chemnitz.de/pub/1997/0025
+* A. Briley, M. R. Pederson, K. A. Jackson, D. C. Patton, and
+  D. V. Porezag,Phys. Rev. B. 58, 1786 (1998)
+ 
+SERIAL VERSION
+commit 272abec88b1fe2cf583e70e717a289c773e32b05
+Author: Yoh Yamamoto <yohyamamoto@gmail.com>
+Date:   Tue Jan 28 12:10:50 2020 -0700
+GLOBAL AWAKENING ON:
+Mon Jul 13 09:32:54 MDT 2020
+miles-desktop
+CPU NODE:
+Linux miles-desktop 4.15.0-109-generic #110-Ubuntu SMP Tue Jun 23 02:39:32 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+ 
+oooooooooooo ooooo          .oooooo.    .oooooo..o ooooo   .oooooo.   
+`888'     `8 `888'         d8P'  `Y8b  d8P'    `Y8 `888'  d8P'  `Y8b  
+ 888          888         888      888 Y88bo.       888  888          
+ 888oooo8     888         888      888  `'Y8888o.   888  888          
+ 888    '     888         888      888      `'Y88b  888  888          
+ 888          888       o `88b    d88' oo     .d8P  888  `88b    ooo  
+o888o        o888ooooood8  `Y8bood8P'  8``88888P'  o888o  `Y8bood8P'  
+ 
+                            .oooo.          .oooo.                
+                           d8P'`Y8b       .dP''Y88b               
+              oooo    ooo 888    888            ]8P'              
+               `88.  .8'  888    888          .d8P'               
+                `88..8'   888    888        .dP'                  
+                 `888'    `88b  d88' .o.  .oP     .o              
+                  `8'      `Y8bd8P'  Y8P  8888888888              
+ 
+ Scaled PZSIC configs.
+ Local SIC (LSIC) is used
+ Oneshot calculation
+ 
+ LIST OF PARAMETERS USED FOR THIS ADVENTURE
+ MXSPN=(           2 )
+ MAX_PTS=(     1100000 )
+ MAX_FUSET=(          12 )
+ MAX_IDENT=(          65 )
+ MX_CNT=(MX_CNT)
+ MXATMS=(          65 )
+ MX_CNT=(          65 )
+ NMUPMAX=(           7 )
+ MAX_BARE=(          25 )
+ MAX_CON=(          15 )
+ MAX_OCC=(        1000 )
+ MAXUNSYM=(         100 )
+ NDH=(        1000 )
+ NDH_TOT=(      500500 )
+ MX_GRP=(           1 )
+ MAX_REP=(          10 )
+ MAXSLC=(         200 )
+ LOCMAX=(         360 )
+ ISMAX=(          32 )
+ MAXSYMSALC=(          32 )
+ MXRPSP=(         100 )
+ MXPTAB=(         100 )
+ MXLPSP=(           2 )
+ MXKPT=(           1 )
+ MPBLOCK=(         100 )
+ MXPOISS=(         100 )
+ NSPEED=(          25 )
+ LDIM=(           3 )
+ CUTEXP=(   40.000000000000000      )
+ MX_SPH=(        3500 )
+ MAX_VIRT_PER_SYM=(        2100 )
+ MAXGFIT=(          15 )
+ MAXLSQF=(          50 )
+ MTEMP=(      147000 )
+ KRHOG=(          10 )
+ C   DONE....
+Mon Jul 13 09:32:54 MDT 2020
+CPU NODE:
+Linux miles-desktop 4.15.0-109-generic #110-Ubuntu SMP Tue Jun 23 02:39:32 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+ 
+oooooooooooo ooooo          .oooooo.    .oooooo..o ooooo   .oooooo.   
+`888'     `8 `888'         d8P'  `Y8b  d8P'    `Y8 `888'  d8P'  `Y8b  
+ 888          888         888      888 Y88bo.       888  888          
+ 888oooo8     888         888      888  `'Y8888o.   888  888          
+ 888    '     888         888      888      `'Y88b  888  888          
+ 888          888       o `88b    d88' oo     .d8P  888  `88b    ooo  
+o888o        o888ooooood8  `Y8bood8P'  8``88888P'  o888o  `Y8bood8P'  
+ 
+                            .oooo.          .oooo.                
+                           d8P'`Y8b       .dP''Y88b               
+              oooo    ooo 888    888            ]8P'              
+               `88.  .8'  888    888          .d8P'               
+                `88..8'   888    888        .dP'                  
+                 `888'    `88b  d88' .o.  .oP     .o              
+                  `8'      `Y8bd8P'  Y8P  8888888888              
+ 
+ Scaled PZSIC configs.
+ Local SIC (LSIC) is used
+ Oneshot calculation
+ 
+ LIST OF PARAMETERS USED FOR THIS ADVENTURE
+ MXSPN=(           2 )
+ MAX_PTS=(     1100000 )
+ MAX_FUSET=(          12 )
+ MAX_IDENT=(          65 )
+ MX_CNT=(MX_CNT)
+ MXATMS=(          65 )
+ MX_CNT=(          65 )
+ NMUPMAX=(           7 )
+ MAX_BARE=(          25 )
+ MAX_CON=(          15 )
+ MAX_OCC=(        1000 )
+ MAXUNSYM=(         100 )
+ NDH=(        1000 )
+ NDH_TOT=(      500500 )
+ MX_GRP=(           1 )
+ MAX_REP=(          10 )
+ MAXSLC=(         200 )
+ LOCMAX=(         360 )
+ ISMAX=(          32 )
+ MAXSYMSALC=(          32 )
+ MXRPSP=(         100 )
+ MXPTAB=(         100 )
+ MXLPSP=(           2 )
+ MXKPT=(           1 )
+ MPBLOCK=(         100 )
+ MXPOISS=(         100 )
+ NSPEED=(          25 )
+ LDIM=(           3 )
+ CUTEXP=(   40.000000000000000      )
+ MX_SPH=(        3500 )
+ MAX_VIRT_PER_SYM=(        2100 )
+ MAXGFIT=(          15 )
+ MAXLSQF=(          50 )
+ MTEMP=(      147000 )
+ KRHOG=(          10 )
+ C   DONE....
+ MAIN: FILE RUNS IS BROKEN
+miles-desktop
+miles-desktop
+Linux miles-desktop 4.15.0-109-generic #110-Ubuntu SMP Tue Jun 23 02:39:32 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+ 
+oooooooooooo ooooo          .oooooo.    .oooooo..o ooooo   .oooooo.   
+`888'     `8 `888'         d8P'  `Y8b  d8P'    `Y8 `888'  d8P'  `Y8b  
+ 888          888         888      888 Y88bo.       888  888          
+ 888oooo8     888         888      888  `'Y8888o.   888  888          
+ 888    '     888         888      888      `'Y88b  888  888          
+ 888          888       o `88b    d88' oo     .d8P  888  `88b    ooo  
+o888o        o888ooooood8  `Y8bood8P'  8``88888P'  o888o  `Y8bood8P'  
+ 
+                            .oooo.          .oooo.                
+                           d8P'`Y8b       .dP''Y88b               
+              oooo    ooo 888    888            ]8P'              
+               `88.  .8'  888    888          .d8P'               
+                `88..8'   888    888        .dP'                  
+                 `888'    `88b  d88' .o.  .oP     .o              
+                  `8'      `Y8bd8P'  Y8P  8888888888              
+ 
+ Scaled PZSIC configs.
+ Local SIC (LSIC) is used
+ Oneshot calculation
+ 
+ LIST OF PARAMETERS USED FOR THIS ADVENTURE
+ MXSPN=(           2 )
+ MAX_PTS=(     1100000 )
+ MAX_FUSET=(          12 )
+ MAX_IDENT=(          65 )
+ MX_CNT=(MX_CNT)
+ MXATMS=(          65 )
+ MX_CNT=(          65 )
+ NMUPMAX=(           7 )
+ MAX_BARE=(          25 )
+ MAX_CON=(          15 )
+ MAX_OCC=(        1000 )
+ MAXUNSYM=(         100 )
+ NDH=(        1000 )
+ NDH_TOT=(      500500 )
+ MX_GRP=(           1 )
+ MAX_REP=(          10 )
+ MAXSLC=(         200 )
+ LOCMAX=(         360 )
+ ISMAX=(          32 )
+ MAXSYMSALC=(          32 )
+ MXRPSP=(         100 )
+ MXPTAB=(         100 )
+ MXLPSP=(           2 )
+ MXKPT=(           1 )
+ MPBLOCK=(         100 )
+ MXPOISS=(         100 )
+ NSPEED=(          25 )
+ LDIM=(           3 )
+ CUTEXP=(   40.000000000000000      )
+ MX_SPH=(        3500 )
+ MAX_VIRT_PER_SYM=(        2100 )
+ MAXGFIT=(          15 )
+ MAXLSQF=(          50 )
+ MTEMP=(      147000 )
+ KRHOG=(          10 )
+ C   DONE....
+ MAIN: FILE RUNS IS BROKEN
+Linux miles-desktop 4.15.0-109-generic #110-Ubuntu SMP Tue Jun 23 02:39:32 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+ 
+oooooooooooo ooooo          .oooooo.    .oooooo..o ooooo   .oooooo.   
+`888'     `8 `888'         d8P'  `Y8b  d8P'    `Y8 `888'  d8P'  `Y8b  
+ 888          888         888      888 Y88bo.       888  888          
+ 888oooo8     888         888      888  `'Y8888o.   888  888          
+ 888    '     888         888      888      `'Y88b  888  888          
+ 888          888       o `88b    d88' oo     .d8P  888  `88b    ooo  
+o888o        o888ooooood8  `Y8bood8P'  8``88888P'  o888o  `Y8bood8P'  
+ 
+                            .oooo.          .oooo.                
+                           d8P'`Y8b       .dP''Y88b               
+              oooo    ooo 888    888            ]8P'              
+               `88.  .8'  888    888          .d8P'               
+                `88..8'   888    888        .dP'                  
+                 `888'    `88b  d88' .o.  .oP     .o              
+                  `8'      `Y8bd8P'  Y8P  8888888888              
+ 
+ Scaled PZSIC configs.
+ Local SIC (LSIC) is used
+ Oneshot calculation
+ 
+ LIST OF PARAMETERS USED FOR THIS ADVENTURE
+ MXSPN=(           2 )
+ MAX_PTS=(     1100000 )
+ MAX_FUSET=(          12 )
+ MAX_IDENT=(          65 )
+ MX_CNT=(MX_CNT)
+ MXATMS=(          65 )
+ MX_CNT=(          65 )
+ NMUPMAX=(           7 )
+ MAX_BARE=(          25 )
+ MAX_CON=(          15 )
+ MAX_OCC=(        1000 )
+ MAXUNSYM=(         100 )
+ NDH=(        1000 )
+ NDH_TOT=(      500500 )
+ MX_GRP=(           1 )
+ MAX_REP=(          10 )
+ MAXSLC=(         200 )
+ LOCMAX=(         360 )
+ ISMAX=(          32 )
+ MAXSYMSALC=(          32 )
+ MXRPSP=(         100 )
+ MXPTAB=(         100 )
+ MXLPSP=(           2 )
+ MXKPT=(           1 )
+ MPBLOCK=(         100 )
+ MXPOISS=(         100 )
+ NSPEED=(          25 )
+ LDIM=(           3 )
+ CUTEXP=(   40.000000000000000      )
+ MX_SPH=(        3500 )
+ MAX_VIRT_PER_SYM=(        2100 )
+ MAXGFIT=(          15 )
+ MAXLSQF=(          50 )
+ MTEMP=(      147000 )
+ KRHOG=(          10 )
+ C   DONE....
+ MAIN: FILE RUNS IS BROKEN
+RELAXATION MODE: SCF-ONLY                           
+EXCHANGE    FUNCTIONAL: LDA
+CORRELATION FUNCTIONAL: LDA PERDEW-WANG 91           
+READING AND ANALYZING GROUP MATRICES
+DETERMINING SYMMETRY GROUP
+NUMBER OF REPRESENTATIONS:  1
+DIMENSIONS: 1
+ CHARACTERS OF SYMMETRY OPERATIONS IN GRPMAT:
+IRREP 1:  1.0
+CHECKING GREAT ORTHOGONALITY THEOREM
+CHECKING MULTIPLICATION TABLE
+REPRESENTATION  1 IS OK
+CHECKING GROUP REPRESENTATION
+GROUP REPRESENTATION IS OK
+CHECKING S REPRESENTATION
+S REPRESENTATION IS OK
+CHECKING P REPRESENTATION
+P REPRESENTATION IS OK
+CHECKING D REPRESENTATION:
+D REPRESENTATION IS OK
+TOTAL NUMBER OF FAILED TESTS:   0
+READING ATOMIC AND BASIS SET DATA
+SCF FOR ATOM TYPE   1 SUCCESSFUL, EIGENVALUES: 
+    -30.30551     -1.32255      0.14876      1.46814     11.15634
+     -0.49779      0.24926      1.32611      5.06323
+      0.86737      2.92763      7.74172
+CHARGE ERROR IN DENSITY FIT:   0.00754174 (CORRECTED)
+POTENTIAL AND DENSITY FITS ARE OK
+TESTING BASIS SET
+ TESTBAS: back from OVERLAP. TIME:   0.0000000000000000     
+ TESTBAS: pre-diag time   0.0000000000000000     
+ TESTBAS:diag time   0.0000000000000000     
+ 
+CREATING VARIATIONAL INTEGRATION MESH
+ORIGINAL IDENTITY MEMBERS:
+ATOM   1:     0.000000     0.000000     0.000000, Z=   10.00000
+INFINITY RADIUS IS:        9.60
+ 
+NUMBER OF UNIQUE ATOMS:     1
+COORDINATES OF ATOMIC CUBES:
+        0.000000        0.000000        0.000000
+ 
+THE CAKE WILL BE SLICED RIGHT NOW !
+CHECKING IF ADJACENT ATOMS ARE TOO CLOSE TO ATOMIC CUBES
+REMOVING SYMMETRY-EQUIVALENT BOXES
+CHECKING FOR REDUCIBLE BOXES
+ 
+FINAL BOX SET:
+BOX     1, MULTIPLICITY:   1, IDENTITY MEMBER:   1
+CENTER     0.000000     0.000000     0.000000
+SIZE      19.193269    19.193269    19.193269
+LOWEST LDA POTENTIAL FOR INTERSTITIAL REGIONS:      0.00000
+TOTAL VOLUME:   0.707044672936D+04, CORRECT:   0.707044672936D+04
+ 
+ASSIGNING POINTS TO CUBES THAT CONTAIN ATOMS
+NUMBER OF POINTS FOR ATOMIC CUBES:      21140
+ASSIGNING POINTS TO INTERSTITIAL BOXES
+TOTAL NUMBER OF MESH POINTS:            21140
+REORDERING MESH POINTS
+TOTAL NUMBER OF SPHERES:   232
+SPHERE INFORMATION: RADIUS, VOLUME, NUMBER OF POINTS, POINT DENSITY
+MINIMUM:      0.505      0.539        2      0.007
+MAXIMUM:      4.039    276.018     2378   4411.077
+AVERAGE:      1.845     76.143       91    142.274
+WORST ASPECT RATIO:      1.000 : 1
+ 
+TEST INTEGRATION FOR BARE GAUSSIANS
+ 
+ ID-MEM   BEST ALPHA   BEST ERROR   WORST ALPHA  WORST ERROR
+------------------------------------------------------------
+    1      0.29E+05     0.19E-10      0.25E+01     0.33E-07
+ 
+ DIAGGE3:Calling DSPGVD
+LARGEST S-DIAGONAL ERROR:   0.3698D-08
+LARGEST S-GENERAL  ERROR:   0.3698D-08
+LARGEST S-EIGEN    ERROR:   0.1874D-05
+TIME FOR CONSTRUCTION OF VARIATIONAL MESH:          0.160
+TIME FOR MESH REORDERING:                           0.050
+TIME FOR MESH READING / TESTING + WRITING:          0.110
+ NMSH is        21140
+ 
+ITERATION   1
+=============
+READING OLD WAVEFUNCTIONS FROM FILE WFOUT                                   
+ MREP =           1
+ N_OCC, NBASF =          35          35          35
+ N_OCC, NBASF =          35          35          35
+ ERROR=   5.0049824146550813E-011
+ ERROR=   6.2952601681151203E-011
+ ISPN, IREP, J, OCCUPANCY(J)
+           1           1           1   1.0000000000000000       -32.724788585760415     
+           1           1           2   1.0000000000000000       -1.8037591505234283     
+           1           1           3   1.0000000000000000      -0.87161036822381721     
+           1           1           4   1.0000000000000000      -0.87158601206548825     
+           1           1           5   1.0000000000000000      -0.87157810768475796     
+           1           1           6   0.0000000000000000       0.11690006243657730     
+           1           1           7   0.0000000000000000       0.26299976739395181     
+           1           1           8   0.0000000000000000       0.26300011651689303     
+           1           1           9   0.0000000000000000       0.26300028982595980     
+           1           1          10   0.0000000000000000       0.84883854178204743     
+           1           1          11   0.0000000000000000       0.88313109389311351     
+           1           1          12   0.0000000000000000       0.88313148303702438     
+           1           1          13   0.0000000000000000       0.88313196779888858     
+           1           1          14   0.0000000000000000       0.88337487953844296     
+           1           1          15   0.0000000000000000       0.88337525817761209     
+           1           1          16   0.0000000000000000        1.3528876655057762     
+           1           1          17   0.0000000000000000        1.3528884594058708     
+           1           1          18   0.0000000000000000        1.3528890218589507     
+           1           1          19   0.0000000000000000        2.4363463543856008     
+           1           1          20   0.0000000000000000        2.9595300490768852     
+           1           1          21   0.0000000000000000        2.9595311791257339     
+           1           1          22   0.0000000000000000        2.9595321258809948     
+           1           1          23   0.0000000000000000        2.9597819903274956     
+           1           1          24   0.0000000000000000        2.9597832922566689     
+           1           1          25   0.0000000000000000        5.1185076781710652     
+           1           1          26   0.0000000000000000        5.1185089507923216     
+           1           1          27   0.0000000000000000        5.1185097600952449     
+           1           1          28   0.0000000000000000        5.5667635492614469     
+           1           1          29   0.0000000000000000        7.7939629479560253     
+           1           1          30   0.0000000000000000        7.7939640811235771     
+           1           1          31   0.0000000000000000        7.7939652162282229     
+           1           1          32   0.0000000000000000        7.7939980443403627     
+           1           1          33   0.0000000000000000        7.7939996561298921     
+           1           1          34   0.0000000000000000        13.961559811838200     
+           1           1          35   0.0000000000000000        73.758965560254509     
+           2           1          36   1.0000000000000000       -32.724788586062239     
+           2           1          37   1.0000000000000000       -1.8037591565184661     
+           2           1          38   1.0000000000000000      -0.87161056154306837     
+           2           1          39   1.0000000000000000      -0.87158578628477079     
+           2           1          40   1.0000000000000000      -0.87157813193178324     
+           2           1          41   0.0000000000000000       0.11690006229682987     
+           2           1          42   0.0000000000000000       0.26299976913143025     
+           2           1          43   0.0000000000000000       0.26300011450342614     
+           2           1          44   0.0000000000000000       0.26300029005980347     
+           2           1          45   0.0000000000000000       0.84883854178369977     
+           2           1          46   0.0000000000000000       0.88313109302096848     
+           2           1          47   0.0000000000000000       0.88313148080579951     
+           2           1          48   0.0000000000000000       0.88313197059156334     
+           2           1          49   0.0000000000000000       0.88337487927646663     
+           2           1          50   0.0000000000000000       0.88337525822259799     
+           2           1          51   0.0000000000000000        1.3528876665083045     
+           2           1          52   0.0000000000000000        1.3528884583168559     
+           2           1          53   0.0000000000000000        1.3528890219127354     
+           2           1          54   0.0000000000000000        2.4363463480339118     
+           2           1          55   0.0000000000000000        2.9595300491137584     
+           2           1          56   0.0000000000000000        2.9595311789698600     
+           2           1          57   0.0000000000000000        2.9595321260879830     
+           2           1          58   0.0000000000000000        2.9597819901522584     
+           2           1          59   0.0000000000000000        2.9597832924228404     
+           2           1          60   0.0000000000000000        5.1185076822244513     
+           2           1          61   0.0000000000000000        5.1185089471508753     
+           2           1          62   0.0000000000000000        5.1185097599398199     
+           2           1          63   0.0000000000000000        5.5667635417896202     
+           2           1          64   0.0000000000000000        7.7939629483057828     
+           2           1          65   0.0000000000000000        7.7939640848320266     
+           2           1          66   0.0000000000000000        7.7939652125460164     
+           2           1          67   0.0000000000000000        7.7939980442449963     
+           2           1          68   0.0000000000000000        7.7939996561939564     
+           2           1          69   0.0000000000000000        13.961559802894227     
+           2           1          70   0.0000000000000000        73.758965619300113     
+ ORBSIC:          70          35          35
+TRACE OF HAMILTONIAN:           0.000000
+  CALLING FRMORB2(0,0)
+ TIME in 1000 LOOP:   0.0000000000000000     
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801583       0.973805       0.975842       0.977454        1.27132    
+ BACK FROM LOWSIC
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801582       0.973582       0.975175       0.978346        1.27132    
+ BACK FROM LOWSIC
+  CALLING FRMIORB(1,1)
+ MORB(1), MORB(2):           5           5
+ RHOG:   306.08771102758010       0.17876058824680377       0.17876240953663491       0.17875128853525915       0.17874449544957727        306.08793415740655       0.16701552067030109       0.16700126541865171       0.16702050420886522       0.16700350336863412     
+ MPTS:          10
+ NON-ORTHONORMAL OVERLAP MATRIX FOR SPIN:           1
+ CALLING LOWDEN
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801583       0.973805       0.975842       0.977454        1.27132    
+ EVALOCC:
+    1.116930    1.013360    1.012303    1.011467    0.886897
+ ORTHOGONAL TRANSFORMATION
+ ORTHONORMAL OVERLAP MATRIX FOR SPIN:           1
+ NON-ORTHONORMAL OVERLAP MATRIX FOR SPIN:           2
+ CALLING LOWDEN
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801582       0.973582       0.975175       0.978346        1.27132    
+ EVALOCC:
+    1.116930    1.013477    1.012648    1.011006    0.886897
+ ORTHOGONAL TRANSFORMATION
+ ORTHONORMAL OVERLAP MATRIX FOR SPIN:           2
+  FINISHED FRMIORB(1,1)
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           1           1
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.380     21140
+ TIME FOR COUPOT2:  0.38000000000000012       0.38000000000000012       0.33333333333333343                1       21140           1
+ ISO-ORB file            1  created
+ FLO-MOMENTS:    1     -0.0000      0.0000     -0.0000      1.0000      0.1991      0.3993      0.6637
+TIME FOR EXCHANGE-CORRELATION:                      0.020
+ ZPOT  created           1
+ MAIN TIME FOR SIC LOOP:           1  0.41999999999999993     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           2           1
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.380     21140
+ TIME FOR COUPOT2:  0.38000000000000012       0.76000000000000023       0.48717948717948734                1       21140           2
+ ISO-ORB file            2  created
+ FLO-MOMENTS:    2     -0.0949     -0.1600     -0.4287      1.0000      0.9682      1.2992      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created           2
+ MAIN TIME FOR SIC LOOP:           2  0.42000000000000015     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           3           1
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.390     21140
+ TIME FOR COUPOT2:  0.38999999999999990        1.1499999999999999       0.57788944723618085                1       21140           3
+ ISO-ORB file            3  created
+ FLO-MOMENTS:    3      0.4132      0.2183     -0.0032      1.0000      0.9682      1.2991      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created           3
+ MAIN TIME FOR SIC LOOP:           3  0.43000000000000016     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           4           1
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.390     21140
+ TIME FOR COUPOT2:  0.38999999999999968        1.5399999999999996       0.63636363636363624                1       21140           4
+ ISO-ORB file            4  created
+ FLO-MOMENTS:    4     -0.3335      0.2997      0.1318      1.0000      0.9682      1.2991      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created           4
+ MAIN TIME FOR SIC LOOP:           4  0.41999999999999993     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           5           1
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.380     21140
+ TIME FOR COUPOT2:  0.38999999999999968        1.9299999999999988       0.67957746478873204                1       21140           5
+ ISO-ORB file            5  created
+ FLO-MOMENTS:    5      0.0152     -0.3580      0.3001      1.0000      0.9681      1.2991      1.6419
+TIME FOR EXCHANGE-CORRELATION:                      0.020
+ ZPOT  created           5
+ MAIN TIME FOR SIC LOOP:           5  0.42999999999999972     
+ Oneshot/AVGSIC calculation, SICLAGM skipped.
+ TIME FOR SICLAGM:   0.0000000000000000     
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     1.0000     1.0000     0.0000     1.0000     2.6338    -2.7600    -2.2258    -0.2814    -0.2814    -2.4351    -0.0435     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     2.0000     1.0000     0.0000     1.0232     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     3.0000     1.0000     0.0000     0.9559     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     4.0000     1.0000     0.0000     1.0232     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     5.0000     1.0000     0.0000     0.9976     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+ Writing fforce.dat
+  CALLING FRMORB2(0,0)
+ TIME in 1000 LOOP:   0.0000000000000000     
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801583       0.973805       0.975842       0.977454        1.27132    
+ BACK FROM LOWSIC
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801582       0.973582       0.975175       0.978346        1.27132    
+ BACK FROM LOWSIC
+  CALLING FRMIORB(1,1)
+ MORB(1), MORB(2):           5           5
+ RHOG:   306.08771102758010       0.17876058824680377       0.17876240953663491       0.17875128853525915       0.17874449544957727        306.08793415740655       0.16701552067030109       0.16700126541865171       0.16702050420886522       0.16700350336863412     
+ MPTS:          10
+ NON-ORTHONORMAL OVERLAP MATRIX FOR SPIN:           1
+ CALLING LOWDEN
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801583       0.973805       0.975842       0.977454        1.27132    
+ EVALOCC:
+    1.116930    1.013360    1.012303    1.011467    0.886897
+ ORTHOGONAL TRANSFORMATION
+ ORTHONORMAL OVERLAP MATRIX FOR SPIN:           1
+ NON-ORTHONORMAL OVERLAP MATRIX FOR SPIN:           2
+ CALLING LOWDEN
+ CALLING DIAGGE:        1000           5
+  LOWDEN OVERLAP EIGENVALUES:
+    0.801582       0.973582       0.975175       0.978346        1.27132    
+ EVALOCC:
+    1.116930    1.013477    1.012648    1.011006    0.886897
+ ORTHOGONAL TRANSFORMATION
+ ORTHONORMAL OVERLAP MATRIX FOR SPIN:           2
+  FINISHED FRMIORB(1,1)
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           1           2
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.360     21140
+ TIME FOR COUPOT2:  0.36000000000000032        2.2899999999999996       0.70245398773006118                2       21140          36
+ ISO-ORB file           36  created
+ FLO-MOMENTS:   36      0.0000     -0.0000      0.0000      1.0000      0.1991      0.3993      0.6637
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created          36
+ MAIN TIME FOR SIC LOOP:           1  0.40000000000000036     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           2           2
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.390     21140
+ TIME FOR COUPOT2:  0.38999999999999968        2.6799999999999993       0.72628726287262857                2       21140          37
+ ISO-ORB file           37  created
+ FLO-MOMENTS:   37      0.0949      0.1600      0.4287      1.0000      0.9682      1.2992      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created          37
+ MAIN TIME FOR SIC LOOP:           2  0.42999999999999972     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           3           2
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.380     21140
+ TIME FOR COUPOT2:  0.38000000000000034        3.0599999999999992       0.74452554744525523                2       21140          38
+ ISO-ORB file           38  created
+ FLO-MOMENTS:   38      0.3335     -0.2997     -0.1318      1.0000      0.9682      1.2991      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created          38
+ MAIN TIME FOR SIC LOOP:           3  0.43000000000000016     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           4           2
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.390     21140
+ TIME FOR COUPOT2:  0.38999999999999968        3.4499999999999993       0.75824175824175810                2       21140          39
+ ISO-ORB file           39  created
+ FLO-MOMENTS:   39     -0.4132     -0.2183      0.0032      1.0000      0.9682      1.2991      1.6420
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created          39
+ MAIN TIME FOR SIC LOOP:           4  0.42999999999999972     
+CALCULATING FERMI ORBITAL POTENTIAL ON MESH POINTS
+ CURRENTLY ORBITAL,SPIN           5           2
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:         1.000000
+TOTAL CHARGE IN COUPOT:         1.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.380     21140
+ TIME FOR COUPOT2:  0.37999999999999989        3.8299999999999983       0.77062374245472809                2       21140          40
+ ISO-ORB file           40  created
+ FLO-MOMENTS:   40     -0.0152      0.3580     -0.3001      1.0000      0.9681      1.2991      1.6419
+TIME FOR EXCHANGE-CORRELATION:                      0.010
+ ZPOT  created          40
+ MAIN TIME FOR SIC LOOP:           5  0.41999999999999993     
+ Oneshot/AVGSIC calculation, SICLAGM skipped.
+ TIME FOR SICLAGM:   0.0000000000000000     
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     1.0000     1.0000     0.0000     1.0000     2.6338    -2.7600    -2.2258    -0.2814    -0.2814    -2.4351    -0.0435     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     2.0000     1.0000     0.0000     0.9754     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     3.0000     1.0000     0.0000     0.9754     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     4.0000     1.0000     0.0000     1.0514     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     5.0000     1.0000     0.0000     0.9980     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+ Writing fforce.dat
+ WRITTEN RESULTS
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     1.0000     1.0000     0.0000     1.0000     2.6338    -2.7600    -2.2258    -0.2814    -0.2814    -2.4351    -0.0435     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     2.0000     1.0000     0.0000     1.0232     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     3.0000     1.0000     0.0000     0.9559     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     4.0000     1.0000     0.0000     1.0232     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     5.0000     1.0000     0.0000     0.9976     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     1.0000     1.0000     0.0000     1.0000     2.6338    -2.7600    -2.2258    -0.2814    -0.2814    -2.4351    -0.0435     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     2.0000     1.0000     0.0000     0.9754     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     3.0000     1.0000     0.0000     0.9754     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     4.0000     1.0000     0.0000     1.0514     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+SIC COR (U,D,A,X,C,XOSIC,DLAM,DENG,TOT):     5.0000     1.0000     0.0000     0.9980     0.5270    -0.3407    -0.2515    -0.0158    -0.0158    -0.3086    -0.0163     0.0000     0.0000
+ MAIN : ZSIC = -0.68888732555263044     
+ MAIN TIME FOR SIC :   4.6900000000000004     
+CALCULATING KOHN-SHAM POTENTIAL ON MESH POINTS
+NUMBER OF POINTS IN COUPOT:      21140
+LONG  CHARGE IN COUPOT:        10.000000
+TOTAL CHARGE IN COUPOT:        10.000000
+TIME FOR COULOMB POTENTIAL,NMSH:       0.420     21140
+ TOTAL TIME FOR LSD COUL  0.41999999999999993     
+TOTAL CHARGE IN APOTNL:         9.999999988905
+DIPOLE MOMENT:  -0.956617870547D-07   0.377909963909D-07   0.169350016480D-06
+TIME FOR EXCHANGE-CORRELATION:                      0.020
+TIME FOR REDUCED DERIVATIVES OF RHO:                 0.000
+TIME FOR GORBDRV EXECUTION:                          0.000
+TIME FOR COULOMB POTENTIAL + RHO AND RHODRV:         0.420
+TIME FOR COMPLETE APOTNL EXECUTION:                  0.440
+================================================
+TOTAL ENERGY:                        -128.216687
+CONTRIBUTIONS:
+NUCLEAR REPULSION:                      0.000000
+LOCAL POTENTIAL:                     -311.892997
+MEAN-FIELD COULOMB:                    66.441814
+KINETIC+NONLOCAL POTENTIAL:           129.045042
+EXCHANGE-CORRELATION:                 -11.810545
+EXTERNAL ELECTRIC FIELD:                0.000000
+SELF-INTERACTION ENERGY:               -0.688887
+TOTAL ENERGY + SIC ENERGY:           -128.905574
+================================================
+ GTENRGY: HAMOLD IS INCOMPATIBLE OR NOT AVAILABLE
+ End of calculation
+ LSIC is done non self-consistently

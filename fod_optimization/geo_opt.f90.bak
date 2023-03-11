@@ -1,0 +1,108 @@
+program geo_opt
+implicit none
+integer,parameter::N = 4
+real(8)::R(N,3),rad,X(N),Y(N),Z(N),pi,D(N*(N-1)/2,3),th(N),ph(N),dh
+real(8)::pot,optp,Rop(N,3),Dop(N*(N-1)/2,3),phold(N),thold(N),err,realrad
+integer::i,j,k,m,ios,coun, coun2
+pi=4.d0*atan(1.d0)
+!N -> No. of electrons
+!R -> position of electron Ni,3d
+!rad -> radius of the shell
+!D -> distance
+
+dh = 1!Step size
+rad = 1
+realrad = 0.27
+Rop(:,:) = rad!optimum positions
+optp = 10000!optimum potential
+Dop(:,:) = 0!Optimum distance
+thold(:) = 0
+phold(:) = 0
+coun = 0
+coun = 0
+coun2 =  0
+!Begin of the monte carlo
+call srand( time() )
+
+!Giving random initial positions
+call get_R(R,rad,th,thold,ph,phold,pi,N,dh)
+
+
+do m=1,5000
+pot = 0
+k = 0
+D(:,:) = 0
+
+
+do i=1,N-1
+        do j=i+1,N
+                k=k+1
+                D(k,:)=R(j,:)-R(i,:)!D(1,:) is the difference between 2 and 1
+                                    !D(2,:) is the difference between 3 and 1
+                pot=pot+1/norm2(D(k,:))
+        end do
+end do
+!Testing if the potential improves
+if (pot .LT. optp) then
+        optp = pot
+        Dop = D
+        Rop = R
+        thold = th
+        phold = ph
+        coun2 = 0
+        write(*,*) 'The potential improved is : ',pot,' at iter ',m 
+else
+        coun2 = coun2 + 1
+        coun = coun + 1
+        if (coun .GE. 10) then
+            dh = dh*0.80
+            coun = 0
+        end if
+end if
+! stoping criteria
+if (coun2 .GE. 300) then
+      write(*,*) ' No improvement reached, exit at iter ',m
+      exit
+end if
+
+
+call get_R(R,rad,th,thold,ph,phold,pi,N,dh)
+end do
+
+
+write(*,*) 'The optimal potential is : ',optp
+write(*,*) ' Iteration No. : ',m
+write(*,*) 'The set of optimal positions are : '
+open(10,file = 'plot.xyz')
+open(15,file = 'FRMIDT',access ='append')
+write(10,*,iostat=ios) N
+write(10,*,iostat=ios) 'plot points '
+do m=1,N
+        write(*,*) Rop(m,:)
+        write(10,*,iostat=ios) 'X',Rop(m,1),Rop(m,2),Rop(m,3),0.2
+        write(15,*,iostat=ios) Rop(m,1)*realrad,Rop(m,2)*realrad,Rop(m,3)*realrad
+end do
+close(10)
+ 
+
+call system('jmol plot.xyz')
+end program
+
+!#############################################################
+
+
+subroutine get_R(X,rad,th,thold,ph,phold,pi,N,dh)
+real(8)::rad,pi,dh,thold(N),phold(N)
+real(8)::X(N,3),th(N),ph(N)
+
+do i=1,N
+    th(i) = thold(i) + pi*(rand()-0.5)*2*dh
+    ph(i) = phold(i) + 2*pi*(rand()-0.5)*2*dh
+    !These are X,Y and Z positions
+    X(i,1) = rad*sin(th(i))*cos(ph(i))
+    X(i,2) = rad*sin(th(i))*sin(ph(i))
+    X(i,3) = rad*cos(th(i))
+end do
+
+end subroutine
+

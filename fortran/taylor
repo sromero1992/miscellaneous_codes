@@ -1,0 +1,11 @@
+program taylor
+      
+	! this are requaried quantities to develop the taylor serie of f(x)
+	implicit none
+
+	integer n,m,l
+
+	real x, sum=0.0
+
+
+`

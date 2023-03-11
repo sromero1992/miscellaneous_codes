@@ -1,0 +1,6 @@
+set pm3d
+set title " AE6 "
+set xlabel " k "
+set ylabel " MAPE "
+set zlabel " Functional "
+splot "3d_poster_plot.dat" u 1:2:3 w pm3d 

@@ -1,0 +1,9 @@
+
+isosurface RHOTOT.cube 
+color isosurface cyan
+isosurface translucent
+draw myplane {1 0 1} {-1 0 1} {-1 0 -1} {1 0 -1}
+isosurface plane $myplane "RHOTOT.cube" #Custom plane
+isosurface plane xy "RHOTOT.cube"
+isosurface colorscheme "roygb"  plane xy "RHOTOT.cube"
+isosurface color absolute 0.01 0.15 reversecolor plane xy "RHOTOT.cube"

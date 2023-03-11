@@ -1,0 +1,5 @@
+set label "Force vs Position" center
+set xlabel "Position (fermis)"
+set ylabel "Force (Hartrees)"
+plot 'fvpdata.txt' u 1:2 smooth csplines
+

@@ -1,0 +1,7 @@
+set xlabel "Temp"
+set ylabel "Frec"
+r="./temp_freq_m.txt"
+set grid
+set title 'frequencies of temperatures for 1 month'
+plot r using 1:2 with 
+

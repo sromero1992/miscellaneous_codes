@@ -1,0 +1,9 @@
+set border linewidth 1.5
+set pointsize 1.5
+set style line 1 lc rgb '#0060ad' pt 7   # circle
+unset key
+set xrange [0.0:4.0]
+set xlabel "Iso-orbital"
+set ylabel "Rx"
+set title 'Iso-orbital indicator through x-dir'
+plot 'plot_rmshVtau.dat' u 1:2

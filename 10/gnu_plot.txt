@@ -1,0 +1,4 @@
+set xlabel "Iso-orbital"
+set ylabel "Rx"
+set title 'Iso-orbital indicator through x-dir'
+plot 'plot_rmshVtau.dat' u 1:2

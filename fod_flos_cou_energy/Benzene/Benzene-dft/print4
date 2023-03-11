@@ -1,0 +1,102 @@
+ MPI: Number of slave processes=           1
+NRLMOL version 12/23/2013 
+ 
+Copyright by Mark R. Pederson, Koblar A. Jackson, Dirk V. Porezag,
+and David C. Patton, 1988-2001
+ 
+Permission to use, copy, and distribute this software can only be
+granted by the authors. Please contact nrlmol@dave.nrl.navy.mil
+for questions, updates, modifications, and bug reports.
+ 
+If you use this program please cite the following articles:
+ 
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 41, 7453 (1990)
+* K. A. Jackson and M. R. Pederson, Phys. Rev. B. 42, 3276 (1990)
+* M. R. Pederson and K. A. Jackson, Phys. Rev. B. 43, 7312 (1991)
+* A. A. Quong, M. R. Pederson, and J. L. Feldman,
+  Solid State Commun. 87, 535 (1993)
+* D. V. Porezag and M. R. Pederson, Phys. Rev. B. 54, 7830 (1996)
+* D. V. Porezag, PhD thesis: http://archiv.tu-chemnitz.de/pub/1997/0025
+* A. Briley, M. R. Pederson, K. A. Jackson, D. C. Patton, and
+  D. V. Porezag,Phys. Rev. B. 58, 1786 (1998)
+ 
+MPI VERSION
+
+
+
+GLOBAL AWAKENING ON:
+Thu Dec 19 14:16:50 MST 2019
+CPU NODE:
+eslab08
+Linux eslab08 5.2.18-100.fc29.x86_64 #1 SMP Tue Oct 1 13:32:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+ 
+oooooooooooo ooooo          .oooooo.    .oooooo..o ooooo   .oooooo.   
+`888'     `8 `888'         d8P'  `Y8b  d8P'    `Y8 `888'  d8P'  `Y8b  
+ 888          888         888      888 Y88bo.       888  888          
+ 888oooo8     888         888      888  `'Y8888o.   888  888          
+ 888    '     888         888      888      `'Y88b  888  888          
+ 888          888       o `88b    d88' oo     .d8P  888  `88b    ooo  
+o888o        o888ooooood8  `Y8bood8P'  8``88888P'  o888o  `Y8bood8P'  
+ 
+                            .oooo.          .oooo.                
+                           d8P'`Y8b       .dP''Y88b               
+              oooo    ooo 888    888            ]8P'              
+               `88.  .8'  888    888          .d8P'               
+                `88..8'   888    888        .dP'                  
+                 `888'    `88b  d88' .o.  .oP     .o              
+                  `8'      `Y8bd8P'  Y8P  8888888888              
+ 
+ 
+ LIST OF PARAMETERS USED FOR THIS ADVENTURE
+ MXSPN=(           2 )
+ MAX_PTS=(      500000 )
+ MAX_FUSET=(          12 )
+ MAX_IDENT=(          65 )
+ MX_CNT=(MX_CNT)
+ MXATMS=(          65 )
+ MX_CNT=(          65 )
+ NMUPMAX=(           7 )
+ MAX_BARE=(          25 )
+ MAX_CON=(          15 )
+ MAX_OCC=(        1000 )
+ MAXUNSYM=(          70 )
+ NDH=(        1000 )
+ NDH_TOT=(      500500 )
+ MX_GRP=(           1 )
+ MAX_REP=(          10 )
+ MAXSLC=(         200 )
+ LOCMAX=(         360 )
+ ISMAX=(          32 )
+ MAXSYMSALC=(          32 )
+ MXRPSP=(         100 )
+ MXPTAB=(         100 )
+ MXLPSP=(           2 )
+ MXKPT=(           1 )
+ MPBLOCK=(         100 )
+ MXPOISS=(         100 )
+ NSPEED=(          25 )
+ LDIM=(           3 )
+ CUTEXP=(   40.000000000000000      )
+ MX_SPH=(        2000 )
+ MAX_VIRT_PER_SYM=(        2100 )
+ MAXGFIT=(          15 )
+ MAXLSQF=(          50 )
+ MTEMP=(      147000 )
+ KRHOG=(          10 )
+ C   DONE....
+CLUSTER: YOU CONVERGED TO THE FINAL ANSWER
+GEOMETRY OPTIMIZED ON:    2 CYCLES
+TO START ANEW, REMOVE FILE GEOCNVRG AND RERUN
+ 
+TIME FOR EXECUTION OF UNRAVEL (PART 1):             0.000
+TIME FOR EXECUTION OF UNRAVEL (PART 2):             0.000
+TIME FOR EXECUTION OF THIS NEAT PROGRAM:            0.000
+HOPE TO SEE YOU AGAIN VERY SOON :-)
+  
+ MPI: Total Wall clock TIME =    8.9337360113859177E-003
+  
+ ***********************
+ MPI Node       CPU time
+ -----------------------
+     1             0.00
+ ************************************************

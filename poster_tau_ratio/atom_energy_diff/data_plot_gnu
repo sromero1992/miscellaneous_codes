@@ -1,0 +1,6 @@
+set title "Energy difference"
+set xlabel "AN"
+set grid
+set ylabel "Ecomp-Eaccu"
+
+plot for [id=0:*] 'tau_ratio_lda' i id u 1:2 w lines title columnheader(1)\

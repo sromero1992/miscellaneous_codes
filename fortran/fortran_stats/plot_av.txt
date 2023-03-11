@@ -1,0 +1,8 @@
+set xlabel "Month"
+set ylabel "Temp"
+m="./data_av.txt"
+
+set grid
+set title 'Averages temp by month'
+plot m using 1:2 with linespoints
+

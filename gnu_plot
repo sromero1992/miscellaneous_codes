@@ -1,0 +1,5 @@
+set xlabel "X"
+set ylabel "Y"
+set title 'Lagran-polynomial interpolation'
+plot 'lagrange_plot.txt' u 1:2  smooth csplines,\
+     'data.txt' u 1:2 

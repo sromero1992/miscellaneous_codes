@@ -1,0 +1,8 @@
+Programs to do
+
+program to do, eigenvalue of schrodinger eq 1 d (solve ODE)
+and solve similarity transformations
+
+AXB
+
+Taylor series approx of a function known
