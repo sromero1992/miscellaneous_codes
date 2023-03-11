@@ -1,0 +1,50 @@
+ my_exp  with Interval [-8,8] 
+	Bisection method:
+		Success with 38 iterations, final solution: 1.098612.
+	Regula-Falsi method:
+		Success with 4265 iterations, final solution: 1.098612.
+	Hybrid method:
+		Success with 21 iterations, final solution: 1.098612.
+my_sincos  with Interval [-8,8]
+	Bisection method:
+		Success with 38 iterations, final solution: 0.972030.
+	Regula-Falsi method:
+		Success with 9 iterations, final solution: 0.972030.
+	Hybrid method:
+		Success with 20 iterations, final solution: 0.972030.
+ my_cubic  with Interval [-8,8]
+	Bisection method:
+		Success with 38 iterations, final solution: 1.457706.
+	Regula-Falsi method:
+		Success with 265 iterations, final solution: 1.457706.
+	Hybrid method:
+		Success with 23 iterations, final solution: 1.457706.
+ Initial interval [0,2]
+ my_exp
+	Bisection method:
+		Success with 35 iterations, final solution: 1.098612.
+	Regula-Falsi method:
+		Success with 26 iterations, final solution: 1.098612.
+	Hybrid method:
+		Success with 18 iterations, final solution: 1.098612.
+ my_sincos
+	Bisection method:
+		Success with 35 iterations, final solution: 0.972030.
+	Regula-Falsi method:
+		Success with 6 iterations, final solution: 0.972030.
+	Hybrid method:
+		Success with 17 iterations, final solution: 0.972030.
+ my_cubic
+	Bisection method:
+		Success with 35 iterations, final solution: 1.457706.
+	Regula-Falsi method:
+		Success with 21 iterations, final solution: 1.457706.
+	Hybrid method:
+		Success with 20 iterations, final solution: 1.457706.
+ my_gamma
+	Bisection method:
+		Success with 34 iterations, final solution: 0.342877.
+	Regula-Falsi method:
+		Success with 110 iterations, final solution: 0.342877.
+	Hybrid method:
+		Success with 20 iterations, final solution: 0.342877.

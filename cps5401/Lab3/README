@@ -1,0 +1,27 @@
+This "package" computes the solution of Aa=B, getting B from the
+assignment_3, doing a signal analysis of the form:
+
+f(x) ~ fls(x) = a1 f1(x)+ a2 f2(x)+...+ak fk(x)
+
+fk= ak1 sin((k1-1)) + ak2 cos(k2 x)
+
+where a is the vector solution  for the matrix problem of finding such values to solve.
+
+R(a) = R(a1,a2,...,ak) = sum {i to n} [ yi- fls(xi)) ] ^ 2
+R(a)= at A a - 2 Bt a + Const
+nabla( R(a))= 2Aa -2B
+
+/////////////////////Requeriments///////////////////
+To do such calculations you must have Lapack,open mp and mpi:
+libllapack-dev
+liblblas-dev
+libomp-dev
+libcr-dev
+mpich
+
+//////////////////Run////////////////
+Go to the desired paralellization kind, e.g.
+OpenMP/
+and do  sh build , or make.
+
+The program will display the vector solution for a.
